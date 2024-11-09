@@ -148,6 +148,13 @@ Before diving into frameworks, we recommend you first read through our introduct
 - [Discord](https://discord.com/invite/FRRBdjemHV)
 - [NPM Package](https://www.npmjs.com/package/@veramo/core)
 
+**MUD -** **_A comprehensive framework for ambitious onchain applications that simplifies development through a tightly integrated software stack. MUD sets itself apart by offering a complete solution for building, deploying, and maintaining fully onchain, autonomous applications with ease._
+
+- [Homepage](https://mud.dev/)
+- [Documentation](https://mud.dev/introduction)
+- [GitHub](https://github.com/latticexyz/mud)
+- [Discord](https://lattice.xyz/discord)
+
 ## Further reading {#further-reading}
 
 _Know of a community resource that helped you? Edit this page and add it!_
